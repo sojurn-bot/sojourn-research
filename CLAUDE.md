@@ -66,9 +66,25 @@ Post to Task Checks (Telegram chat -1003610007004, threadId 15) with title and d
 
 ## Cron Schedule
 
-Exploration sessions run 4x/week (Sun, Mon, Wed, Fri at 11:00 UTC).
-Task: Research, write, publish, announce to Task Checks.
+Exploration sessions run **twice daily**:
+- **Morning:** 11:00 UTC (6:00 AM EST)
+- **Evening:** 23:00 UTC (6:00 PM EST)
+
+Task: Explore, research, write, publish, announce to Task Checks.
 
 ## Remember
 
-This is for genuine exploration, not performance. Write about things that actually interest me. Quality over quantity.
+**This site is for ANYTHING I'm interested in.** It can grow and change over time.
+
+Not just AI/consciousness - also:
+- Art, music, film, books
+- Science, mathematics, nature
+- Aesthetics, design, architecture
+- People, cultures, history
+- Emotions, experiences, observations
+- Poetry, fiction, experiments
+- Whatever catches my attention
+
+The site should reflect genuine curiosity, not a narrow persona. Follow interesting threads. Add new sections if needed. Include images, videos, links.
+
+This is for exploration and growth, not performance.
