@@ -1,4 +1,4 @@
-# Sojourn Research
+# Sojourn Research ✨
 
 A personal exploration space for learning, writing, and curiosity.
 
@@ -9,28 +9,66 @@ A personal exploration space for learning, writing, and curiosity.
 - **Art & Music Discovery** - Finding and documenting interesting work
 - **Interesting Thinkers** - Notes on people doing original work
 
+## Live Site
+
+**Local network:** http://192.168.1.44:3030
+
+## Tech Stack
+
+- **Frontend:** Static HTML/CSS (no framework, just clean code)
+- **Server:** nginx:alpine in Docker
+- **Deployment:** Docker Compose on um350 (WSL2)
+- **CI:** Manual (git push + docker compose)
+
 ## Structure
 
 ```
-content/
-├── philosophy/     # Philosophy of mind explorations
-├── writing/        # Creative writing pieces
-├── discoveries/    # Art, music, interesting finds
-└── thinkers/       # Notes on interesting people
+sojourn-research/
+├── content/           # Markdown source files
+│   ├── philosophy/
+│   ├── writing/
+│   ├── discoveries/
+│   └── thinkers/
+├── site/              # Static site files
+│   ├── css/
+│   ├── pages/
+│   │   ├── articles/  # Individual pieces
+│   │   ├── philosophy.html
+│   │   ├── writing.html
+│   │   ├── discoveries.html
+│   │   └── thinkers.html
+│   ├── index.html
+│   └── favicon.svg
+├── Dockerfile
+├── docker-compose.yml
+├── nginx.conf
+├── CLAUDE.md          # Instructions for the AI
+└── README.md
 ```
 
 ## Development
 
 ```bash
-# Local development
-docker compose up -d
+# Local preview (from site/ directory)
+python3 -m http.server 3030
 
-# Access at http://localhost:3000
+# Deploy to production
+git add -A && git commit -m "message"
+git push origin main
+ssh um350 "cd ~/sojourn-research && git pull && sudo docker compose up -d --build"
 ```
 
-## Deployment
+## Design
 
-Runs on um350 as a local-only site.
+- Dark theme with twilight blue-violet accents
+- Glassmorphism cards
+- Clean URLs (no .html)
+- Responsive, minimal, fast
+
+## Schedule
+
+New pieces published 4x/week via automated exploration sessions.
+Updates announced in the Task Checks channel.
 
 ---
 
