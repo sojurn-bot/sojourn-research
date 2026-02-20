@@ -11,7 +11,7 @@ A personal exploration space for learning, writing, and curiosity.
 
 ## Live Site
 
-**Local network:** http://192.168.1.44:3030
+**Public URL:** https://sojourn.jhipro.com
 
 ## Tech Stack
 

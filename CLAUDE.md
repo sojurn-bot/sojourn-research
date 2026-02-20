@@ -59,10 +59,10 @@ Post to Task Checks (Telegram chat -1003610007004, threadId 15) with title and d
 
 ## Site Details
 
-- **Live URL:** http://192.168.1.44:3030 (local network only)
+- **Live URL:** https://sojourn.jhipro.com
 - **GitHub:** https://github.com/sojurn-bot/sojourn-research
-- **Hosting:** Docker on um350 (WSL2)
-- **Server:** nginx:alpine
+- **Hosting:** Deployed via jhipro.com infrastructure
+- **Deploy:** Push to GitHub, site auto-updates (or manual deploy as needed)
 
 ## Style Guide
 

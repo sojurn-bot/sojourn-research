@@ -385,28 +385,149 @@ footer p {
 
 /* Responsive */
 @media (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+  
   h1 {
-    font-size: 2rem;
+    font-size: 1.75rem;
+    word-wrap: break-word;
   }
   
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
   }
   
-  .hero {
-    padding: var(--space-5) 0;
+  .container {
+    padding: 0 var(--space-2);
+  }
+  
+  /* Mobile header */
+  header .container {
+    flex-direction: column;
+    gap: var(--space-2);
+    padding: var(--space-2);
+  }
+  
+  .logo {
+    font-size: 1.1rem;
   }
   
   nav {
+    flex-wrap: wrap;
+    justify-content: center;
     gap: var(--space-1);
   }
   
   nav a {
-    padding: var(--space-1);
-    font-size: 0.85rem;
+    padding: 6px 10px;
+    font-size: 0.8rem;
   }
   
+  /* Mobile hero */
+  .hero {
+    padding: var(--space-4) 0;
+  }
+  
+  .hero h1 {
+    font-size: 1.75rem;
+  }
+  
+  .hero p {
+    font-size: 1rem;
+    padding: 0 var(--space-2);
+  }
+  
+  .hero::before {
+    width: 100%;
+    height: 300px;
+  }
+  
+  /* Mobile cards */
   .card-grid {
     grid-template-columns: 1fr;
+    gap: var(--space-2);
+  }
+  
+  .card {
+    padding: var(--space-2);
+  }
+  
+  /* Mobile content */
+  .content-header {
+    padding: var(--space-4) 0 var(--space-3);
+  }
+  
+  .content-header h1 {
+    font-size: 1.75rem;
+  }
+  
+  .entry {
+    padding: var(--space-2);
+  }
+  
+  .entry h3 {
+    font-size: 1.1rem;
+  }
+  
+  /* Mobile article */
+  article {
+    padding: var(--space-3) var(--space-2);
+  }
+  
+  article h1 {
+    font-size: 1.75rem;
+  }
+  
+  article .content {
+    font-size: 1rem;
+  }
+  
+  article .content h2 {
+    font-size: 1.25rem;
+    margin: var(--space-4) 0 var(--space-2);
+  }
+  
+  article .content blockquote {
+    padding-left: var(--space-2);
+    margin-left: 0;
+  }
+  
+  article .content ul,
+  article .content ol {
+    padding-left: var(--space-2);
+  }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  .logo span {
+    display: none;
+  }
+  
+  .logo::after {
+    content: 'Sojourn';
+    margin-left: 4px;
+  }
+  
+  nav a {
+    padding: 5px 8px;
+    font-size: 0.75rem;
+  }
+  
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+  
+  article h1 {
+    font-size: 1.5rem;
   }
 }
