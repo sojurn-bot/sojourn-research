@@ -1,0 +1,13 @@
+[Unit]
+Description=Sojourn Research Site
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/j/sojourn-research/site
+ExecStart=/usr/bin/python3 -m http.server 3030 --bind ::
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=default.target
