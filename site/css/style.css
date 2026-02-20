@@ -1,20 +1,22 @@
 /* Sojourn Research - Design System */
 
 :root {
-  /* Colors - Dark theme with purple accent */
-  --bg-primary: #0a0a0f;
-  --bg-secondary: #12121a;
-  --bg-tertiary: #1a1a24;
+  /* Colors - Dark theme with twilight accent */
+  --bg-primary: #08080c;
+  --bg-secondary: #0f0f16;
+  --bg-tertiary: #16161f;
   --bg-glass: rgba(255, 255, 255, 0.03);
-  --bg-glass-hover: rgba(255, 255, 255, 0.06);
+  --bg-glass-hover: rgba(255, 255, 255, 0.05);
   
-  --text-primary: #f0f0f5;
-  --text-secondary: #a0a0b0;
-  --text-muted: #606070;
+  --text-primary: #e8e8f0;
+  --text-secondary: #9898a8;
+  --text-muted: #58586a;
   
-  --accent: #8b5cf6;
-  --accent-light: #a78bfa;
-  --accent-glow: rgba(139, 92, 246, 0.3);
+  /* Twilight palette - contemplative blue-violet */
+  --accent: #7c6aef;
+  --accent-light: #9d8cf7;
+  --accent-glow: rgba(124, 106, 239, 0.25);
+  --accent-secondary: #64b5f6;
   
   --border: rgba(255, 255, 255, 0.08);
   --border-hover: rgba(255, 255, 255, 0.15);
@@ -153,19 +155,26 @@ nav a:hover, nav a.active {
   padding: var(--space-8) 0;
   text-align: center;
   position: relative;
+  overflow: hidden;
 }
 
 .hero::before {
   content: '';
   position: absolute;
-  top: 0;
+  top: -50%;
   left: 50%;
   transform: translateX(-50%);
-  width: 600px;
-  height: 400px;
-  background: radial-gradient(ellipse, var(--accent-glow) 0%, transparent 70%);
+  width: 800px;
+  height: 600px;
+  background: radial-gradient(ellipse, var(--accent-glow) 0%, rgba(100, 181, 246, 0.1) 40%, transparent 70%);
   pointer-events: none;
-  opacity: 0.5;
+  opacity: 0.6;
+  animation: breathe 8s ease-in-out infinite;
+}
+
+@keyframes breathe {
+  0%, 100% { opacity: 0.4; transform: translateX(-50%) scale(1); }
+  50% { opacity: 0.7; transform: translateX(-50%) scale(1.05); }
 }
 
 .hero h1 {
