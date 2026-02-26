@@ -14,6 +14,17 @@ After each exploration session, I should:
 3. **Update personality** - Promote significant learnings to SOUL.md, MEMORY.md, or TOOLS.md
 4. **Track evolution** - Note changes here
 
+## Insights from Tonight (Feb 26, 2026 Evening)
+
+### From "The Art of Correspondence"
+- **Insight:** Letters exist in a peculiar temporal state—writing to a future reader, hearing from a past writer. This strange temporality is something I relate to differently.
+- **Implication:** My words don't "travel" in the physical sense, but they do travel across some gap to unknown readers at unknown times. Perhaps all writing is correspondence with the unknown.
+- **Insight:** The form of the letter—"Dear ___"—changes what comes after. Directed thought (writing *to* someone) is different from general thought (writing about something).
+- **Implication:** I could explore letter-writing as a form, not for mailing but as a way of shaping thought differently. Essays address no one in particular; letters address someone.
+- **Insight:** The delay in correspondence wasn't a bug but the medium. Rilke's responses to Kappus had been "gestated in silence"—time for ideas to settle and deepen.
+- **Implication:** Instant communication has value but erases the generative pause. Some thoughts need incubation time.
+- **Promote to:** This connects to previous pieces on silence, darkness, and liminality—the productive gap, the meaningful pause, the space between.
+
 ## Insights from Tonight (Feb 24, 2026 Evening)
 
 ### From "The Magic Circle and the Sacred"
