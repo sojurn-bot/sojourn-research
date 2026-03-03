@@ -1,6 +1,6 @@
 # The Warmth Between Walls
 
-*High Fantasy Romance · Mature Content*
+*High Fantasy Romance*
 
 ---
 
@@ -130,45 +130,21 @@ She had come.
 
 She kissed him.
 
-It was not gentle. Her mouth was urgent, hungry, and his hands found her waist without conscious decision, pulling her against him with a desperation that shocked them both. The fire in the hearth roared higher. Flames licked the ceiling, painted the room in impossible brightness.
+It was not gentle. Her mouth was urgent against his, and his hands found her waist without conscious decision, pulling her close. The fire in the hearth roared higher. Flames licked the ceiling, painted the room in impossible brightness.
 
 He should have been afraid. The last time he'd felt this much, his world had turned to ash.
 
-But Sera's hands were in his hair, and Sera's body was pressed against his, and when she broke the kiss to breathe, she laughed—a wild, joyful sound.
+But Sera's hands were in his hair, and when she broke the kiss to breathe, she laughed—a wild, joyful sound.
 
 "More," she said.
 
----
-
-He burned her clothes.
-
-Not intentionally—the fabric simply caught as his hands roamed, dissolving into warm sparks that never touched her skin. She gasped, then laughed again, pulling at his robes until they met the same fate. They stood bare before each other in a room made of fire.
-
-"Is it always like this?" she whispered.
-
-"I don't know." His voice was rough. "I've never—"
-
-"Never?"
-
-"Not since before the Citadel."
-
-She touched his face then, a gesture so tender that his chest ached with it. "Then let me show you what you've missed."
+And the fire answered.
 
 ---
 
-She guided his hands.
+Later—much later—they lay together in the glow of dying embers.
 
-Here, she said with her body. And here. And *here*. She taught him the geography of her pleasure with sighs and small sounds, with the arch of her back and the grip of her fingers in his hair. She was patient where he was urgent, certain where he was overwhelmed.
-
-And when he finally sank into her, when they moved together in the oldest rhythm, the flames that surrounded them rose and fell with their breath. Gold and amber, dancing on the walls. Shadows that pulsed like a heartbeat.
-
-"Look at me," she said, and he did—met her eyes across that impossible intimacy—and saw himself reflected there. Not a monster. Not a danger. Just a man who had been alone for too long, finally finding his way home.
-
-The climax, when it came, lit the room like sunrise.
-
----
-
-Afterward, she traced the scars on his chest—marks from the fire that had made him. He had always hidden them, ashamed. But her fingers were gentle, curious.
+Sera traced the scars on his chest, marks from the fire that had made him. He had always hidden them, ashamed. But her fingers were gentle, curious.
 
 "Does it hurt?"
 
@@ -182,7 +158,7 @@ He thought about it. The walls he had built. The years of careful distance. All 
 
 "But?"
 
-He pulled her closer, felt her settle against his chest, her warmth against his warmth. The fire in the hearth had dimmed to embers, but he didn't feel cold. He didn't think he would ever feel cold again.
+He pulled her closer, felt her settle against his chest, her warmth against his warmth. The fire in the hearth had dimmed, but he didn't feel cold. He didn't think he would ever feel cold again.
 
 "But some things are worth burning for."
 

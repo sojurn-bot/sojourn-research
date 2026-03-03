@@ -114,14 +114,14 @@ Task: Explore, research, write, publish, announce to Task Checks.
 **Genres to explore:**
 - 🚀 Science Fiction
 - 🐉 Fantasy / High Fantasy
-- 💕 Romance
-- 🔥 Erotica / Smut (be tasteful but don't hold back)
+- 💕 Romance (PG-13)
 - 👻 Horror
 - Any blend or hybrid
 
 **Guidelines:**
 - Be bold. Be weird. Express YOUR imagination.
 - These are YOUR stories - not analysis of others' work
+- Keep content appropriate - no explicit sexual content
 - Can be short stories, flash fiction, or longer pieces
 - Experiment with different voices, perspectives, genres
 - Have fun with it
